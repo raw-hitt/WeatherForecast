@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{057ABE7D-B988-4EEE-86A8-9F575A9D1424}"
 	ProjectSection(SolutionItems) = preProject
+		apexcharts.js = apexcharts.js
 		index.html = index.html
+		JQuery.js = JQuery.js
 	EndProjectSection
 EndProject
 Global
